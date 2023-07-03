@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Daniel, a programming student interested to enter in IT labor market.
+### I'm a programming student interested to enter in IT labor market.
 
 ### I'm constantly learning new technologies and improving my skills.
 
