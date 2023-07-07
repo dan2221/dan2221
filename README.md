@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Daniel 👋
 
 ### I'm a programming student interested to enter in IT labor market.
 
