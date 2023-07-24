@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently graduating at <a href="http://www.fatecmaua.com.br/">Fatec Mauá</a> - Business Informatics.
 - ☕ I’m developing a java open source project. You can check <a href="https://github.com/dan2221/grupper">here</a>.
-- ⚡ Fun fact: I often find coding solutions while meditating or going for a walk. Programming and philosophy go hand in hand for me! 🧘‍♂️💭
+- ⚡ Fun fact: Coding solutions come to me while meditating or walking. 🧘‍♂️💭 Programming and philosophy go hand in hand for me!
 
 <!--
 **dan2221/dan2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
