@@ -1,9 +1,6 @@
-### Hi there, I'm Daniel de Lima👋
+### Hi there, I'm Daniel👋
 <hr>
 <p align="justify">IT student interested in entering the job market who is constantly learning new technologies. You can see in my profile some projects related to games, I think they are good opportunities for praticing programming. As more ideas appear, more projects will be added to this repository.</p>
-
-- 🎓 I'm currently graduating at <a href="http://www.fatecmaua.com.br/">Fatec Mauá</a> - Business Informatics.
-- ☕ I’m developing a java open source project. You can check <a href="https://github.com/dan2221/grupper">here</a>.
 
 <!--
 **dan2221/dan2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
