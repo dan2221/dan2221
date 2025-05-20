@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel👋
 <hr>
-<p align="justify">IT student who is constantly learning new technologies. You can see in my profile some projects related to games, I think they are good opportunities for praticing programming. As more ideas appear, more projects will be added to this repository.</p>
+<p align="justify">IT student who is constantly learning new technologies. You can see in my profile some projects related to games, I think they are good opportunities for praticing programming. As more ideas appear, I'll create more repositories.</p>
 
 <!--
 **dan2221/dan2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
